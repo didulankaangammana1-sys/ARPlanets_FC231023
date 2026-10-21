@@ -1,0 +1,63 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void HelloAR_Update_m1F2B91BCC279F9DC452390FE33B8DE42F023C71E (void);
+extern void HelloAR__ctor_mEF28934E4F32D4A05B627E9FBE68F111C77CF924 (void);
+extern void Orbit_Update_m08E209C0A52E9EA24A47B07D623FFC589DCA64C8 (void);
+extern void Orbit__ctor_mB9C36D43297D4CB0E1959C2F08AC002C06772FED (void);
+extern void PlaceOnPlane_Update_m4BAC7B0437CB4CB61EF9C23849AC096E5EE7C2B7 (void);
+extern void PlaceOnPlane_TryGetTap_m69FCE04ED1BF081FFEA19AB464F3C2B951535B5E (void);
+extern void PlaceOnPlane__ctor_mEAC8D0276C9BC36A8A633F162E3F8EBF96D6255C (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+static Il2CppMethodPointer s_methodPointers[9] = 
+{
+	HelloAR_Update_m1F2B91BCC279F9DC452390FE33B8DE42F023C71E,
+	HelloAR__ctor_mEF28934E4F32D4A05B627E9FBE68F111C77CF924,
+	Orbit_Update_m08E209C0A52E9EA24A47B07D623FFC589DCA64C8,
+	Orbit__ctor_mB9C36D43297D4CB0E1959C2F08AC002C06772FED,
+	PlaceOnPlane_Update_m4BAC7B0437CB4CB61EF9C23849AC096E5EE7C2B7,
+	PlaceOnPlane_TryGetTap_m69FCE04ED1BF081FFEA19AB464F3C2B951535B5E,
+	PlaceOnPlane__ctor_mEAC8D0276C9BC36A8A633F162E3F8EBF96D6255C,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+};
+static const int32_t s_InvokerIndices[9] = 
+{
+	15982,
+	15982,
+	15982,
+	15982,
+	15982,
+	8336,
+	15982,
+	15982,
+	15982,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	9,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
